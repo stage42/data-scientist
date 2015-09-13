@@ -5,3 +5,5 @@ This repo is homework for Coursera "The Data Scientist’s Toolbox" and will be 
 * this is
 * nice
 * todo list
+
+### Heading 3 ###
